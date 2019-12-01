@@ -53,3 +53,6 @@ D:\funcionando 1153 13 03 2018\Ventas-develop\Sistema_ventas\obj\Debug\Sistema_v
 D:\funcionando 1153 13 03 2018\Ventas-develop\Sistema_ventas\obj\Debug\Sistema_ventas.exe
 D:\funcionando 1153 13 03 2018\Ventas-develop\Sistema_ventas\obj\Debug\Sistema_ventas.pdb
 D:\funcionando 1153 13 03 2018\Ventas-develop\Sistema_ventas\obj\Debug\Sistema_ventas.Form1.resources
+D:\veterianaria\develop\Ventas-develop\Sistema_ventas\bin\Debug\Sistema_ventas.exe.config
+D:\veterianaria\develop\Ventas-develop\Sistema_ventas\obj\Debug\Sistema_ventas.exe
+D:\veterianaria\develop\Ventas-develop\Sistema_ventas\obj\Debug\Sistema_ventas.pdb
