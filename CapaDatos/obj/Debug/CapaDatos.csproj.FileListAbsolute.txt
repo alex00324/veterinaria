@@ -1,0 +1,18 @@
+C:\Users\Alexander\Downloads\Ventas-develop\Ventas-develop\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\Alexander\Downloads\Ventas-develop\Ventas-develop\CapaDatos\bin\Debug\CapaDatos.dll.config
+C:\Users\Alexander\Downloads\Ventas-develop\Ventas-develop\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Alexander\Downloads\Ventas-develop\Ventas-develop\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Alexander\Downloads\Ventas-develop\Ventas-develop\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Alexander\Downloads\Ventas-develop\Ventas-develop\CapaDatos\obj\Debug\CapaDatos.pdb
+D:\Ventas-develop\Ventas-develop\CapaDatos\bin\Debug\CapaDatos.dll.config
+D:\Ventas-develop\Ventas-develop\CapaDatos\bin\Debug\CapaDatos.dll
+D:\Ventas-develop\Ventas-develop\CapaDatos\bin\Debug\CapaDatos.pdb
+D:\Ventas-develop\Ventas-develop\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+D:\Ventas-develop\Ventas-develop\CapaDatos\obj\Debug\CapaDatos.dll
+D:\Ventas-develop\Ventas-develop\CapaDatos\obj\Debug\CapaDatos.pdb
+D:\funcionando 1153 13 03 2018\Ventas-develop\CapaDatos\bin\Debug\CapaDatos.dll.config
+D:\funcionando 1153 13 03 2018\Ventas-develop\CapaDatos\bin\Debug\CapaDatos.dll
+D:\funcionando 1153 13 03 2018\Ventas-develop\CapaDatos\bin\Debug\CapaDatos.pdb
+D:\funcionando 1153 13 03 2018\Ventas-develop\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+D:\funcionando 1153 13 03 2018\Ventas-develop\CapaDatos\obj\Debug\CapaDatos.dll
+D:\funcionando 1153 13 03 2018\Ventas-develop\CapaDatos\obj\Debug\CapaDatos.pdb
