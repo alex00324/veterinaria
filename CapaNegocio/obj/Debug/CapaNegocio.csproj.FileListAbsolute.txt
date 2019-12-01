@@ -1,0 +1,21 @@
+C:\Users\Alexander\Downloads\Ventas-develop\Ventas-develop\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+C:\Users\Alexander\Downloads\Ventas-develop\Ventas-develop\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\Alexander\Downloads\Ventas-develop\Ventas-develop\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\Alexander\Downloads\Ventas-develop\Ventas-develop\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\Alexander\Downloads\Ventas-develop\Ventas-develop\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\Alexander\Downloads\Ventas-develop\Ventas-develop\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\Alexander\Downloads\Ventas-develop\Ventas-develop\CapaNegocio\obj\Debug\CapaNegocio.pdb
+D:\Ventas-develop\Ventas-develop\CapaNegocio\bin\Debug\CapaNegocio.dll
+D:\Ventas-develop\Ventas-develop\CapaNegocio\bin\Debug\CapaNegocio.pdb
+D:\Ventas-develop\Ventas-develop\CapaNegocio\bin\Debug\CapaDatos.dll
+D:\Ventas-develop\Ventas-develop\CapaNegocio\bin\Debug\CapaDatos.pdb
+D:\Ventas-develop\Ventas-develop\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+D:\Ventas-develop\Ventas-develop\CapaNegocio\obj\Debug\CapaNegocio.dll
+D:\Ventas-develop\Ventas-develop\CapaNegocio\obj\Debug\CapaNegocio.pdb
+D:\funcionando 1153 13 03 2018\Ventas-develop\CapaNegocio\bin\Debug\CapaNegocio.dll
+D:\funcionando 1153 13 03 2018\Ventas-develop\CapaNegocio\bin\Debug\CapaNegocio.pdb
+D:\funcionando 1153 13 03 2018\Ventas-develop\CapaNegocio\bin\Debug\CapaDatos.dll
+D:\funcionando 1153 13 03 2018\Ventas-develop\CapaNegocio\bin\Debug\CapaDatos.pdb
+D:\funcionando 1153 13 03 2018\Ventas-develop\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+D:\funcionando 1153 13 03 2018\Ventas-develop\CapaNegocio\obj\Debug\CapaNegocio.dll
+D:\funcionando 1153 13 03 2018\Ventas-develop\CapaNegocio\obj\Debug\CapaNegocio.pdb

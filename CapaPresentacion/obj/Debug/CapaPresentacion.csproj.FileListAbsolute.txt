@@ -1,0 +1,100 @@
+C:\Users\Alexander\Downloads\Ventas-develop\Ventas-develop\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+C:\Users\Alexander\Downloads\Ventas-develop\Ventas-develop\CapaPresentacion\obj\Debug\CapaPresentacion.Consultas.frmConsulta_Stock_Articulos.resources
+C:\Users\Alexander\Downloads\Ventas-develop\Ventas-develop\CapaPresentacion\obj\Debug\CapaPresentacion.frmArticulo.resources
+C:\Users\Alexander\Downloads\Ventas-develop\Ventas-develop\CapaPresentacion\obj\Debug\CapaPresentacion.FrmCategoria.resources
+C:\Users\Alexander\Downloads\Ventas-develop\Ventas-develop\CapaPresentacion\obj\Debug\CapaPresentacion.frmCliente.resources
+C:\Users\Alexander\Downloads\Ventas-develop\Ventas-develop\CapaPresentacion\obj\Debug\CapaPresentacion.frmIngreso.resources
+C:\Users\Alexander\Downloads\Ventas-develop\Ventas-develop\CapaPresentacion\obj\Debug\CapaPresentacion.frmLogin.resources
+C:\Users\Alexander\Downloads\Ventas-develop\Ventas-develop\CapaPresentacion\obj\Debug\CapaPresentacion.frmPedido.resources
+C:\Users\Alexander\Downloads\Ventas-develop\Ventas-develop\CapaPresentacion\obj\Debug\CapaPresentacion.frmPresentacion.resources
+C:\Users\Alexander\Downloads\Ventas-develop\Ventas-develop\CapaPresentacion\obj\Debug\CapaPresentacion.frmPrincipal.resources
+C:\Users\Alexander\Downloads\Ventas-develop\Ventas-develop\CapaPresentacion\obj\Debug\CapaPresentacion.frmProveedor.resources
+C:\Users\Alexander\Downloads\Ventas-develop\Ventas-develop\CapaPresentacion\obj\Debug\CapaPresentacion.frmTrabajador.resources
+C:\Users\Alexander\Downloads\Ventas-develop\Ventas-develop\CapaPresentacion\obj\Debug\CapaPresentacion.frmVenta.resources
+C:\Users\Alexander\Downloads\Ventas-develop\Ventas-develop\CapaPresentacion\obj\Debug\CapaPresentacion.frmVistaArticulo_Ingreso.resources
+C:\Users\Alexander\Downloads\Ventas-develop\Ventas-develop\CapaPresentacion\obj\Debug\CapaPresentacion.frmVistaArticulo_Venta.resources
+C:\Users\Alexander\Downloads\Ventas-develop\Ventas-develop\CapaPresentacion\obj\Debug\CapaPresentacion.frmVistaCategoria_Articulo.resources
+C:\Users\Alexander\Downloads\Ventas-develop\Ventas-develop\CapaPresentacion\obj\Debug\CapaPresentacion.frmVistaCliente_Venta.resources
+C:\Users\Alexander\Downloads\Ventas-develop\Ventas-develop\CapaPresentacion\obj\Debug\CapaPresentacion.frmVistaProveedor_Ingreso.resources
+C:\Users\Alexander\Downloads\Ventas-develop\Ventas-develop\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\Alexander\Downloads\Ventas-develop\Ventas-develop\CapaPresentacion\obj\Debug\CapaPresentacion.frmReporteArticulo.resources
+C:\Users\Alexander\Downloads\Ventas-develop\Ventas-develop\CapaPresentacion\obj\Debug\CapaPresentacion.frmReporteFactura.resources
+C:\Users\Alexander\Downloads\Ventas-develop\Ventas-develop\CapaPresentacion\obj\Debug\CapaPresentacion.VistaProveedor_Pedido.resources
+C:\Users\Alexander\Downloads\Ventas-develop\Ventas-develop\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
+C:\Users\Alexander\Downloads\Ventas-develop\Ventas-develop\CapaPresentacion\obj\Debug\RdlCompile.cache
+C:\Users\Alexander\Downloads\Ventas-develop\Ventas-develop\CapaPresentacion\obj\Debug\RdlCompile.compiled
+C:\Users\Alexander\Downloads\Ventas-develop\Ventas-develop\CapaPresentacion\bin\Debug\CapaPresentacion.dll.config
+C:\Users\Alexander\Downloads\Ventas-develop\Ventas-develop\CapaPresentacion\bin\Debug\CapaPresentacion.dll
+C:\Users\Alexander\Downloads\Ventas-develop\Ventas-develop\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\Alexander\Downloads\Ventas-develop\Ventas-develop\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\Alexander\Downloads\Ventas-develop\Ventas-develop\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\Alexander\Downloads\Ventas-develop\Ventas-develop\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\Alexander\Downloads\Ventas-develop\Ventas-develop\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\Alexander\Downloads\Ventas-develop\Ventas-develop\CapaPresentacion\obj\Debug\CapaPresentacion.dll
+C:\Users\Alexander\Downloads\Ventas-develop\Ventas-develop\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+D:\Ventas-develop\Ventas-develop\CapaPresentacion\bin\Debug\CapaPresentacion.dll.config
+D:\Ventas-develop\Ventas-develop\CapaPresentacion\bin\Debug\CapaPresentacion.dll
+D:\Ventas-develop\Ventas-develop\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+D:\Ventas-develop\Ventas-develop\CapaPresentacion\bin\Debug\CapaNegocio.dll
+D:\Ventas-develop\Ventas-develop\CapaPresentacion\bin\Debug\CapaDatos.dll
+D:\Ventas-develop\Ventas-develop\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+D:\Ventas-develop\Ventas-develop\CapaPresentacion\bin\Debug\CapaDatos.pdb
+D:\Ventas-develop\Ventas-develop\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+D:\Ventas-develop\Ventas-develop\CapaPresentacion\obj\Debug\CapaPresentacion.Consultas.frmConsulta_Stock_Articulos.resources
+D:\Ventas-develop\Ventas-develop\CapaPresentacion\obj\Debug\CapaPresentacion.frmArticulo.resources
+D:\Ventas-develop\Ventas-develop\CapaPresentacion\obj\Debug\CapaPresentacion.FrmCategoria.resources
+D:\Ventas-develop\Ventas-develop\CapaPresentacion\obj\Debug\CapaPresentacion.frmCliente.resources
+D:\Ventas-develop\Ventas-develop\CapaPresentacion\obj\Debug\CapaPresentacion.frmIngreso.resources
+D:\Ventas-develop\Ventas-develop\CapaPresentacion\obj\Debug\CapaPresentacion.frmLogin.resources
+D:\Ventas-develop\Ventas-develop\CapaPresentacion\obj\Debug\CapaPresentacion.frmPedido.resources
+D:\Ventas-develop\Ventas-develop\CapaPresentacion\obj\Debug\CapaPresentacion.frmPresentacion.resources
+D:\Ventas-develop\Ventas-develop\CapaPresentacion\obj\Debug\CapaPresentacion.frmPrincipal.resources
+D:\Ventas-develop\Ventas-develop\CapaPresentacion\obj\Debug\CapaPresentacion.frmProveedor.resources
+D:\Ventas-develop\Ventas-develop\CapaPresentacion\obj\Debug\CapaPresentacion.frmTrabajador.resources
+D:\Ventas-develop\Ventas-develop\CapaPresentacion\obj\Debug\CapaPresentacion.frmVenta.resources
+D:\Ventas-develop\Ventas-develop\CapaPresentacion\obj\Debug\CapaPresentacion.frmVistaArticulo_Ingreso.resources
+D:\Ventas-develop\Ventas-develop\CapaPresentacion\obj\Debug\CapaPresentacion.frmVistaArticulo_Venta.resources
+D:\Ventas-develop\Ventas-develop\CapaPresentacion\obj\Debug\CapaPresentacion.frmVistaCliente_Venta.resources
+D:\Ventas-develop\Ventas-develop\CapaPresentacion\obj\Debug\CapaPresentacion.frmVistaProveedor_Ingreso.resources
+D:\Ventas-develop\Ventas-develop\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+D:\Ventas-develop\Ventas-develop\CapaPresentacion\obj\Debug\CapaPresentacion.frmReporteArticulo.resources
+D:\Ventas-develop\Ventas-develop\CapaPresentacion\obj\Debug\CapaPresentacion.frmReporteFactura.resources
+D:\Ventas-develop\Ventas-develop\CapaPresentacion\obj\Debug\CapaPresentacion.VistaProveedor_Pedido.resources
+D:\Ventas-develop\Ventas-develop\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
+D:\Ventas-develop\Ventas-develop\CapaPresentacion\obj\Debug\RdlCompile.cache
+D:\Ventas-develop\Ventas-develop\CapaPresentacion\obj\Debug\RdlCompile.compiled
+D:\Ventas-develop\Ventas-develop\CapaPresentacion\obj\Debug\CapaPresentacion.dll
+D:\Ventas-develop\Ventas-develop\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+D:\funcionando 1153 13 03 2018\Ventas-develop\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+D:\funcionando 1153 13 03 2018\Ventas-develop\CapaPresentacion\obj\Debug\CapaPresentacion.Consultas.frmConsulta_Stock_Articulos.resources
+D:\funcionando 1153 13 03 2018\Ventas-develop\CapaPresentacion\obj\Debug\CapaPresentacion.frmArticulo.resources
+D:\funcionando 1153 13 03 2018\Ventas-develop\CapaPresentacion\obj\Debug\CapaPresentacion.FrmCategoria.resources
+D:\funcionando 1153 13 03 2018\Ventas-develop\CapaPresentacion\obj\Debug\CapaPresentacion.frmCliente.resources
+D:\funcionando 1153 13 03 2018\Ventas-develop\CapaPresentacion\obj\Debug\CapaPresentacion.frmIngreso.resources
+D:\funcionando 1153 13 03 2018\Ventas-develop\CapaPresentacion\obj\Debug\CapaPresentacion.frmLogin.resources
+D:\funcionando 1153 13 03 2018\Ventas-develop\CapaPresentacion\obj\Debug\CapaPresentacion.frmPedido.resources
+D:\funcionando 1153 13 03 2018\Ventas-develop\CapaPresentacion\obj\Debug\CapaPresentacion.frmPresentacion.resources
+D:\funcionando 1153 13 03 2018\Ventas-develop\CapaPresentacion\obj\Debug\CapaPresentacion.frmPrincipal.resources
+D:\funcionando 1153 13 03 2018\Ventas-develop\CapaPresentacion\obj\Debug\CapaPresentacion.frmProveedor.resources
+D:\funcionando 1153 13 03 2018\Ventas-develop\CapaPresentacion\obj\Debug\CapaPresentacion.frmTrabajador.resources
+D:\funcionando 1153 13 03 2018\Ventas-develop\CapaPresentacion\obj\Debug\CapaPresentacion.frmVenta.resources
+D:\funcionando 1153 13 03 2018\Ventas-develop\CapaPresentacion\obj\Debug\CapaPresentacion.frmVistaArticulo_Ingreso.resources
+D:\funcionando 1153 13 03 2018\Ventas-develop\CapaPresentacion\obj\Debug\CapaPresentacion.frmVistaArticulo_Venta.resources
+D:\funcionando 1153 13 03 2018\Ventas-develop\CapaPresentacion\obj\Debug\CapaPresentacion.frmVistaCliente_Venta.resources
+D:\funcionando 1153 13 03 2018\Ventas-develop\CapaPresentacion\obj\Debug\CapaPresentacion.frmVistaProveedor_Ingreso.resources
+D:\funcionando 1153 13 03 2018\Ventas-develop\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+D:\funcionando 1153 13 03 2018\Ventas-develop\CapaPresentacion\obj\Debug\CapaPresentacion.frmReporteArticulo.resources
+D:\funcionando 1153 13 03 2018\Ventas-develop\CapaPresentacion\obj\Debug\CapaPresentacion.frmReporteFactura.resources
+D:\funcionando 1153 13 03 2018\Ventas-develop\CapaPresentacion\obj\Debug\CapaPresentacion.VistaProveedor_Pedido.resources
+D:\funcionando 1153 13 03 2018\Ventas-develop\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
+D:\funcionando 1153 13 03 2018\Ventas-develop\CapaPresentacion\obj\Debug\RdlCompile.cache
+D:\funcionando 1153 13 03 2018\Ventas-develop\CapaPresentacion\obj\Debug\RdlCompile.compiled
+D:\funcionando 1153 13 03 2018\Ventas-develop\CapaPresentacion\obj\Debug\CapaPresentacion.dll
+D:\funcionando 1153 13 03 2018\Ventas-develop\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+D:\funcionando 1153 13 03 2018\Ventas-develop\CapaPresentacion\bin\Debug\CapaPresentacion.dll.config
+D:\funcionando 1153 13 03 2018\Ventas-develop\CapaPresentacion\bin\Debug\CapaPresentacion.dll
+D:\funcionando 1153 13 03 2018\Ventas-develop\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+D:\funcionando 1153 13 03 2018\Ventas-develop\CapaPresentacion\bin\Debug\CapaNegocio.dll
+D:\funcionando 1153 13 03 2018\Ventas-develop\CapaPresentacion\bin\Debug\CapaDatos.dll
+D:\funcionando 1153 13 03 2018\Ventas-develop\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+D:\funcionando 1153 13 03 2018\Ventas-develop\CapaPresentacion\bin\Debug\CapaDatos.pdb

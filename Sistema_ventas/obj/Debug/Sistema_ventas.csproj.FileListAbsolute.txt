@@ -1,0 +1,58 @@
+C:\Users\Alexander\Downloads\Ventas-develop\Ventas-develop\Sistema_ventas\bin\Debug\Sistema_ventas.exe.config
+C:\Users\Alexander\Downloads\Ventas-develop\Ventas-develop\Sistema_ventas\obj\Debug\Sistema_ventas.csprojResolveAssemblyReference.cache
+C:\Users\Alexander\Downloads\Ventas-develop\Ventas-develop\Sistema_ventas\obj\Debug\Sistema_ventas.Properties.Resources.resources
+C:\Users\Alexander\Downloads\Ventas-develop\Ventas-develop\Sistema_ventas\obj\Debug\Sistema_ventas.csproj.GenerateResource.Cache
+C:\Users\Alexander\Downloads\Ventas-develop\Ventas-develop\Sistema_ventas\bin\Debug\Sistema_ventas.exe.manifest
+C:\Users\Alexander\Downloads\Ventas-develop\Ventas-develop\Sistema_ventas\bin\Debug\Sistema_ventas.application
+C:\Users\Alexander\Downloads\Ventas-develop\Ventas-develop\Sistema_ventas\bin\Debug\Sistema_ventas.exe
+C:\Users\Alexander\Downloads\Ventas-develop\Ventas-develop\Sistema_ventas\bin\Debug\Sistema_ventas.pdb
+C:\Users\Alexander\Downloads\Ventas-develop\Ventas-develop\Sistema_ventas\bin\Debug\CapaPresentacion.dll
+C:\Users\Alexander\Downloads\Ventas-develop\Ventas-develop\Sistema_ventas\bin\Debug\CapaNegocio.dll
+C:\Users\Alexander\Downloads\Ventas-develop\Ventas-develop\Sistema_ventas\bin\Debug\CapaDatos.dll
+C:\Users\Alexander\Downloads\Ventas-develop\Ventas-develop\Sistema_ventas\bin\Debug\CapaPresentacion.pdb
+C:\Users\Alexander\Downloads\Ventas-develop\Ventas-develop\Sistema_ventas\bin\Debug\CapaNegocio.pdb
+C:\Users\Alexander\Downloads\Ventas-develop\Ventas-develop\Sistema_ventas\bin\Debug\CapaDatos.pdb
+C:\Users\Alexander\Downloads\Ventas-develop\Ventas-develop\Sistema_ventas\obj\Debug\Sistema_ventas.exe.manifest
+C:\Users\Alexander\Downloads\Ventas-develop\Ventas-develop\Sistema_ventas\obj\Debug\Sistema_ventas.application
+C:\Users\Alexander\Downloads\Ventas-develop\Ventas-develop\Sistema_ventas\obj\Debug\Sistema_ventas.exe
+C:\Users\Alexander\Downloads\Ventas-develop\Ventas-develop\Sistema_ventas\obj\Debug\Sistema_ventas.pdb
+D:\Ventas-develop\Ventas-develop\Sistema_ventas\bin\Debug\Sistema_ventas.exe.config
+D:\Ventas-develop\Ventas-develop\Sistema_ventas\bin\Debug\Sistema_ventas.exe.manifest
+D:\Ventas-develop\Ventas-develop\Sistema_ventas\bin\Debug\Sistema_ventas.application
+D:\Ventas-develop\Ventas-develop\Sistema_ventas\bin\Debug\Sistema_ventas.exe
+D:\Ventas-develop\Ventas-develop\Sistema_ventas\bin\Debug\Sistema_ventas.pdb
+D:\Ventas-develop\Ventas-develop\Sistema_ventas\bin\Debug\CapaPresentacion.dll
+D:\Ventas-develop\Ventas-develop\Sistema_ventas\bin\Debug\CapaNegocio.dll
+D:\Ventas-develop\Ventas-develop\Sistema_ventas\bin\Debug\CapaDatos.dll
+D:\Ventas-develop\Ventas-develop\Sistema_ventas\bin\Debug\CapaPresentacion.pdb
+D:\Ventas-develop\Ventas-develop\Sistema_ventas\bin\Debug\CapaNegocio.pdb
+D:\Ventas-develop\Ventas-develop\Sistema_ventas\bin\Debug\CapaDatos.pdb
+D:\Ventas-develop\Ventas-develop\Sistema_ventas\obj\Debug\Sistema_ventas.csprojResolveAssemblyReference.cache
+D:\Ventas-develop\Ventas-develop\Sistema_ventas\obj\Debug\Sistema_ventas.Properties.Resources.resources
+D:\Ventas-develop\Ventas-develop\Sistema_ventas\obj\Debug\Sistema_ventas.csproj.GenerateResource.Cache
+D:\Ventas-develop\Ventas-develop\Sistema_ventas\obj\Debug\Sistema_ventas.exe.manifest
+D:\Ventas-develop\Ventas-develop\Sistema_ventas\obj\Debug\Sistema_ventas.application
+D:\Ventas-develop\Ventas-develop\Sistema_ventas\obj\Debug\Sistema_ventas.exe
+D:\Ventas-develop\Ventas-develop\Sistema_ventas\obj\Debug\Sistema_ventas.pdb
+D:\funcionando 1153 13 03 2018\Ventas-develop\Sistema_ventas\bin\Debug\Sistema_ventas.exe.config
+D:\funcionando 1153 13 03 2018\Ventas-develop\Sistema_ventas\bin\Debug\Sistema_ventas.exe.manifest
+D:\funcionando 1153 13 03 2018\Ventas-develop\Sistema_ventas\bin\Debug\Sistema_ventas.application
+D:\funcionando 1153 13 03 2018\Ventas-develop\Sistema_ventas\bin\Debug\Sistema_ventas.exe
+D:\funcionando 1153 13 03 2018\Ventas-develop\Sistema_ventas\bin\Debug\Sistema_ventas.pdb
+D:\funcionando 1153 13 03 2018\Ventas-develop\Sistema_ventas\bin\Debug\CapaPresentacion.dll
+D:\funcionando 1153 13 03 2018\Ventas-develop\Sistema_ventas\bin\Debug\CapaNegocio.dll
+D:\funcionando 1153 13 03 2018\Ventas-develop\Sistema_ventas\bin\Debug\CapaDatos.dll
+D:\funcionando 1153 13 03 2018\Ventas-develop\Sistema_ventas\bin\Debug\CapaPresentacion.pdb
+D:\funcionando 1153 13 03 2018\Ventas-develop\Sistema_ventas\bin\Debug\CapaNegocio.pdb
+D:\funcionando 1153 13 03 2018\Ventas-develop\Sistema_ventas\bin\Debug\CapaDatos.pdb
+D:\funcionando 1153 13 03 2018\Ventas-develop\Sistema_ventas\obj\Debug\Sistema_ventas.csprojResolveAssemblyReference.cache
+D:\funcionando 1153 13 03 2018\Ventas-develop\Sistema_ventas\obj\Debug\Sistema_ventas.Properties.Resources.resources
+D:\funcionando 1153 13 03 2018\Ventas-develop\Sistema_ventas\obj\Debug\Sistema_ventas.csproj.GenerateResource.Cache
+D:\funcionando 1153 13 03 2018\Ventas-develop\Sistema_ventas\obj\Debug\Sistema_ventas.exe.manifest
+D:\funcionando 1153 13 03 2018\Ventas-develop\Sistema_ventas\obj\Debug\Sistema_ventas.application
+D:\funcionando 1153 13 03 2018\Ventas-develop\Sistema_ventas\obj\Debug\Sistema_ventas.exe
+D:\funcionando 1153 13 03 2018\Ventas-develop\Sistema_ventas\obj\Debug\Sistema_ventas.pdb
+D:\funcionando 1153 13 03 2018\Ventas-develop\Sistema_ventas\obj\Debug\Sistema_ventas.Form1.resources
+D:\veterianaria\master\Ventas-develop\Sistema_ventas\bin\Debug\Sistema_ventas.exe.config
+D:\veterianaria\master\Ventas-develop\Sistema_ventas\obj\Debug\Sistema_ventas.exe
+D:\veterianaria\master\Ventas-develop\Sistema_ventas\obj\Debug\Sistema_ventas.pdb
