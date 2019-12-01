@@ -87,26 +87,26 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="CapaPresentacion.dll" size="7240704">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="CapaPresentacion.dll" size="7215104">
       <assemblyIdentity name="CapaPresentacion" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>J5mR8TkQduOG65oryVBjEO6CHG1ZGIURS6IwrKwe8ak=</dsig:DigestValue>
+        <dsig:DigestValue>wA+cbDuXR4sEsbdkozStBTyZOSZI8R4/3FPkiEhH8nE=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Sistema_ventas.exe" size="242688">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Sistema_ventas.exe" size="243648">
       <assemblyIdentity name="Sistema_ventas" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>OaWjgwmWfmQ6f6vHFTozpABTDGc3VucFiK8KOIt4UTU=</dsig:DigestValue>
+        <dsig:DigestValue>/+W1/4XG9yTSfhJZ1iyNfz5Umc5tJIw3S1vjoM43mwE=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

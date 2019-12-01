@@ -98,3 +98,36 @@ D:\funcionando 1153 13 03 2018\Ventas-develop\CapaPresentacion\bin\Debug\CapaNeg
 D:\funcionando 1153 13 03 2018\Ventas-develop\CapaPresentacion\bin\Debug\CapaDatos.dll
 D:\funcionando 1153 13 03 2018\Ventas-develop\CapaPresentacion\bin\Debug\CapaNegocio.pdb
 D:\funcionando 1153 13 03 2018\Ventas-develop\CapaPresentacion\bin\Debug\CapaDatos.pdb
+D:\veterianaria\develop\Ventas-develop\CapaPresentacion\bin\Debug\CapaPresentacion.dll.config
+D:\veterianaria\develop\Ventas-develop\CapaPresentacion\bin\Debug\CapaPresentacion.dll
+D:\veterianaria\develop\Ventas-develop\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+D:\veterianaria\develop\Ventas-develop\CapaPresentacion\bin\Debug\CapaNegocio.dll
+D:\veterianaria\develop\Ventas-develop\CapaPresentacion\bin\Debug\CapaDatos.dll
+D:\veterianaria\develop\Ventas-develop\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+D:\veterianaria\develop\Ventas-develop\CapaPresentacion\bin\Debug\CapaDatos.pdb
+D:\veterianaria\develop\Ventas-develop\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+D:\veterianaria\develop\Ventas-develop\CapaPresentacion\obj\Debug\CapaPresentacion.Consultas.frmConsulta_Stock_Articulos.resources
+D:\veterianaria\develop\Ventas-develop\CapaPresentacion\obj\Debug\CapaPresentacion.frmArticulo.resources
+D:\veterianaria\develop\Ventas-develop\CapaPresentacion\obj\Debug\CapaPresentacion.FrmCategoria.resources
+D:\veterianaria\develop\Ventas-develop\CapaPresentacion\obj\Debug\CapaPresentacion.frmCliente.resources
+D:\veterianaria\develop\Ventas-develop\CapaPresentacion\obj\Debug\CapaPresentacion.frmIngreso.resources
+D:\veterianaria\develop\Ventas-develop\CapaPresentacion\obj\Debug\CapaPresentacion.frmLogin.resources
+D:\veterianaria\develop\Ventas-develop\CapaPresentacion\obj\Debug\CapaPresentacion.frmPedido.resources
+D:\veterianaria\develop\Ventas-develop\CapaPresentacion\obj\Debug\CapaPresentacion.frmPresentacion.resources
+D:\veterianaria\develop\Ventas-develop\CapaPresentacion\obj\Debug\CapaPresentacion.frmPrincipal.resources
+D:\veterianaria\develop\Ventas-develop\CapaPresentacion\obj\Debug\CapaPresentacion.frmProveedor.resources
+D:\veterianaria\develop\Ventas-develop\CapaPresentacion\obj\Debug\CapaPresentacion.frmTrabajador.resources
+D:\veterianaria\develop\Ventas-develop\CapaPresentacion\obj\Debug\CapaPresentacion.frmVenta.resources
+D:\veterianaria\develop\Ventas-develop\CapaPresentacion\obj\Debug\CapaPresentacion.frmVistaArticulo_Ingreso.resources
+D:\veterianaria\develop\Ventas-develop\CapaPresentacion\obj\Debug\CapaPresentacion.frmVistaArticulo_Venta.resources
+D:\veterianaria\develop\Ventas-develop\CapaPresentacion\obj\Debug\CapaPresentacion.frmVistaCliente_Venta.resources
+D:\veterianaria\develop\Ventas-develop\CapaPresentacion\obj\Debug\CapaPresentacion.frmVistaProveedor_Ingreso.resources
+D:\veterianaria\develop\Ventas-develop\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+D:\veterianaria\develop\Ventas-develop\CapaPresentacion\obj\Debug\CapaPresentacion.frmReporteArticulo.resources
+D:\veterianaria\develop\Ventas-develop\CapaPresentacion\obj\Debug\CapaPresentacion.frmReporteFactura.resources
+D:\veterianaria\develop\Ventas-develop\CapaPresentacion\obj\Debug\CapaPresentacion.VistaProveedor_Pedido.resources
+D:\veterianaria\develop\Ventas-develop\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
+D:\veterianaria\develop\Ventas-develop\CapaPresentacion\obj\Debug\RdlCompile.cache
+D:\veterianaria\develop\Ventas-develop\CapaPresentacion\obj\Debug\RdlCompile.compiled
+D:\veterianaria\develop\Ventas-develop\CapaPresentacion\obj\Debug\CapaPresentacion.dll
+D:\veterianaria\develop\Ventas-develop\CapaPresentacion\obj\Debug\CapaPresentacion.pdb

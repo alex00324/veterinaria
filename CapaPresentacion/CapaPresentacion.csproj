@@ -58,11 +58,6 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>dsPrincipal.xsd</DependentUpon>
     </Compile>
-    <Compile Include="dventasDataSet.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>dventasDataSet.xsd</DependentUpon>
-    </Compile>
     <Compile Include="frmArticulo.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -270,17 +265,6 @@
     </None>
     <None Include="dsPrincipal.xss">
       <DependentUpon>dsPrincipal.xsd</DependentUpon>
-    </None>
-    <None Include="dventasDataSet.xsc">
-      <DependentUpon>dventasDataSet.xsd</DependentUpon>
-    </None>
-    <None Include="dventasDataSet.xsd">
-      <Generator>MSDataSetGenerator</Generator>
-      <LastGenOutput>dventasDataSet.Designer.cs</LastGenOutput>
-      <SubType>Designer</SubType>
-    </None>
-    <None Include="dventasDataSet.xss">
-      <DependentUpon>dventasDataSet.xsd</DependentUpon>
     </None>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>

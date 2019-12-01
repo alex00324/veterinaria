@@ -54,10 +54,10 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <ManifestCertificateThumbprint>693AF82404E7D31F964A1406FA7D9C5D2CE17DA3</ManifestCertificateThumbprint>
+    <ManifestCertificateThumbprint>6BE28A7EEF2A391D1788E1A51D81899F8266B856</ManifestCertificateThumbprint>
   </PropertyGroup>
   <PropertyGroup>
-    <ManifestKeyFile>Sistema_ventas_ClaveTemporal.pfx</ManifestKeyFile>
+    <ManifestKeyFile>Sistema_ventas_TemporaryKey.pfx</ManifestKeyFile>
   </PropertyGroup>
   <PropertyGroup>
     <GenerateManifests>true</GenerateManifests>
@@ -111,6 +111,7 @@
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
     <None Include="Sistema_ventas_ClaveTemporal.pfx" />
+    <None Include="Sistema_ventas_TemporaryKey.pfx" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config">
